@@ -33,7 +33,7 @@ export default class App extends Component {
         <div class="container">
           <ul class="nav">
             <li class="nav-item">
-              <a class="nav-link active" href="#">        <h1>Factorial Calculator</h1>
+              <a class="nav-link active" href="#"><h1>Factorial Calculator</h1>
               </a>
             </li>
           </ul>
